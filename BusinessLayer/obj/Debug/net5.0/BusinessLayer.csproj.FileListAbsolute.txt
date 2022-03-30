@@ -1,0 +1,36 @@
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1 - BUN\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Razvan\Desktop\FACULTATE AN 3\SEM 2\PS\LABORATOARE\Assignment 1\LayersOnWeb\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

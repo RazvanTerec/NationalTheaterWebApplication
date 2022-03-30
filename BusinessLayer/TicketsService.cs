@@ -1,0 +1,50 @@
+﻿using BusinessLayer.Contracts;
+using DataAccess.Contracts;
+using DataAccess.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BusinessLayer
+{
+    public class TicketsService : ITicketsService
+    {
+        public ITicketsRepository _ticketsRepository;
+
+        public TicketsService(ITicketsRepository ticketsRepository)
+        {
+            _ticketsRepository = ticketsRepository;
+        }
+
+        public List<TicketEntity> GetAllTicketsByShowId(int showId)
+        {
+            return _ticketsRepository.GetAllTicketsByShowId(showId);
+        }
+
+        public void DeleteTicketById(int ticketId)
+        {
+            _ticketsRepository.DeleteTicketById(ticketId);
+        }
+
+        public TicketEntity UpdateTicketById(int ticketId, TicketViewModel ticket)
+        {
+            return _ticketsRepository.UpdateTicketById(ticketId, ticket);
+        }
+
+        public bool AvailableTicket(TicketViewModel ticket, int showId)
+        {
+            return _ticketsRepository.AvailableTicket(ticket, showId);
+        }
+
+        public string BuyTicket(TicketViewModel ticket, int showId)
+        {
+            _ticketsRepository.BuyTicketAsync(ticket, showId);
+            return "Biletul a fost vandut cu succes";
+
+            return _ticketsRepository.BuyTicketAsync(ticket, showId);
+
+        }
+    }
+}
