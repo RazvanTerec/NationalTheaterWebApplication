@@ -1,11 +1,7 @@
 ﻿using BusinessLayer.Contracts;
 using DataAccess.Contracts;
 using DataAccess.ViewModels;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BusinessLayer
 {
@@ -35,7 +31,7 @@ namespace BusinessLayer
 
         public bool AvailableTicket(TicketViewModel ticket, int showId)
         {
-            return _ticketsRepository.AvailableTicket(ticket, showId);
+            return _ticketsRepository.HasAvailableTicket(ticket, showId);
         }
 
         public string BuyTicket(TicketViewModel ticket, int showId)

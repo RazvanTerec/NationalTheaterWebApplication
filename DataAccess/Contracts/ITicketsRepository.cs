@@ -12,7 +12,7 @@ namespace DataAccess.Contracts
         public List<TicketEntity> GetAllTicketsByShowId(int showId);
         public void DeleteTicketById(int ticketId);
         public TicketEntity UpdateTicketById(int ticketId, TicketViewModel ticket);
-        public bool AvailableTicket(TicketViewModel ticket, int showId);
+        public bool HasAvailableTicket(TicketViewModel ticket, int showId);
         public string BuyTicketAsync(TicketViewModel ticket, int id);
     }
 }

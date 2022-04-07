@@ -50,7 +50,7 @@ namespace DataAccess
             return _ticket;
         }
 
-        public bool AvailableTicket(TicketViewModel ticket, int showId)
+        public bool HasAvailableTicket(TicketViewModel ticket, int showId)
         {
             var _movie = _context.Shows.FirstOrDefault(n => n.Id == showId);
             var seat = _context.Tickets.FirstOrDefault(n => n.seatRow == ticket.seatRow && n.seatNumber == ticket.seatNumber && n.ShowId == showId);
@@ -78,7 +78,7 @@ namespace DataAccess
         public string BuyTicketAsync(TicketViewModel ticket, int showId)
         {
 
-            if (AvailableTicket(ticket, showId))
+            if (HasAvailableTicket(ticket, showId))
             {
                 return "Biletul a fost vandut cu succes";
             }
